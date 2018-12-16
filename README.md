@@ -19,6 +19,3 @@ This README will guide you through running the code and getting classification r
 
 We have trained our model on PolyU Contactless FKI Major Knucke Dataset which contains 503 subjects. Out of 5 images for each subject, 3 are considered for training and 2 for testing. Templates generated from training samples has been attached.
 
-
-Note:: train_templates and weights have been provided.
-
