@@ -4,4 +4,5 @@ This README will guide you through running the code and getting classification r
 
 ## Steps ##
 
-Markup : * Bullet list
+Markup :  `code()`
+* Bullet list
