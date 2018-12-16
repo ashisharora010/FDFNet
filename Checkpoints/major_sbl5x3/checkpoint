@@ -1,0 +1,6 @@
+model_checkpoint_path: "model_knuckle.ckpt"
+all_model_checkpoint_paths: "ROI-6000"
+all_model_checkpoint_paths: "ROI-7000"
+all_model_checkpoint_paths: "ROI-8000"
+all_model_checkpoint_paths: "ROI-9000"
+all_model_checkpoint_paths: "model_knuckle.ckpt"
