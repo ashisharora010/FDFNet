@@ -2,6 +2,8 @@
 
 This README will guide you through running the code and getting classification results on test images. The paper which discuss its detailed implementation is "FDFNet : A Secure Cancelable Deep Finger Dorsal Template Generation Network Secured via. Bio-Hashing" accepted at IEEE 5th International Conference on Identity, Security, and Behavior Analysis (ISBA) 2019.
 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1") 
+
 ## Steps ##
 * Create a directory 'data' and put all the test images in their respective folders corresponding to their classes.
 * Run 'test-major.py'. This will create templates for all the test images and will save it to a .txt file.
